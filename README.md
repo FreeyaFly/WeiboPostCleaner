@@ -10,3 +10,11 @@
 3. 点上方console，在最下方蓝色“>”这里粘贴代码。（有可能需要先输入allow pasting，按照提示操作然后再粘代码就行）
 4. 粘贴代码之后回车Enter，开始运行。看到 “#数字 已点击确认” 就是在正常运行。
 5. 如果想要停止可以直接粘贴 __WB_DEL_STOP = true ，然后回车Enter即可停止。
+
+Software Environment: Windows, Google Chrome (other browsers are similar) 
+
+1. Open the Weibo web version and navigate to your personal homepage.
+2. Press Ctrl+Shift+i on your keyboard to open Developer Tools.
+3. Click the Console tab at the top. At the bottom where you see the blue “>”, paste the code there. (You may need to enter “allow pasting” first. Follow the prompts before pasting the code.)
+4. After pasting the code, press Enter to run it. If you see messages like “#number 已点击确认”, it means the script is running normally.
+5. To stop the script, paste __WB_DEL_STOP = true and press Enter.
